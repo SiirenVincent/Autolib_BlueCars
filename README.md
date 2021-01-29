@@ -13,5 +13,3 @@ This hypothesis was chosen because we wanted to know the day which we had most c
 ##  Conclusion
 For any queries or any assistance feel free to contact vinisiiren@gmail.com
 
-### Hypothesis Report
-You can find the hypothesis report in the this link:- https://docs.google.com/document/d/1bBev0eb2iqBq49pd9XsAtE91OEz_H5v2haDY3kFON6U/edit?usp=sharing
